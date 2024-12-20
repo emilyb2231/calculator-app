@@ -1,0 +1,39 @@
+.app {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.input {
+  text-align: left;
+  margin-bottom: 10px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.btn {
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.op-btn {
+  background-color: hsl(0, 0%, 87%);
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.op-btn:hover {
+  cursor: pointer;
+  background-color: hsl(0, 0%, 77%);
+}
+
+.reset-btn {
+  margin-right: 5px;
+  background-color: hsl(0, 99%, 49%);
+  color: white;
+  border-radius: 5px;
+}
+
+.reset-btn:hover {
+  cursor: pointer;
+  background-color: hsl(0, 99%, 39%);
+}
